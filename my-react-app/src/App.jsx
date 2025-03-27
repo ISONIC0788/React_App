@@ -12,6 +12,7 @@ function App() {
     <>
     <Header/>
     <List  items = {fruit} category="fruit" />
+    <List  items = {fruit} category="fruit" />
     </>
    );
 }
