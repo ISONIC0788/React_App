@@ -1,0 +1,44 @@
+/* *{
+  color: black;
+} */
+body{
+  background-color: rgb(29, 32, 28);
+  padding: 10px ;
+  color:  white;
+}
+
+.container-for-nav{
+      padding: 10px ;
+      background-color: black;
+      border-radius:  10px;
+      box-shadow: 2px 5px 7px rgba(122, 122, 122, 0.5);
+      border: 1px solid white;
+}
+
+.link-cont ul{
+   display:  flex;
+   list-style: none;
+}
+.link-cont ul li{
+  padding: 10px;
+}
+.link-cont ul a {
+  text-decoration:  none;
+  font-weight:  bold;
+  text-transform: capitalize;
+  color: white;
+}
+
+.link-cont{
+  display:  flex;
+}
+.link-cont .button{
+  background-color: white;
+  padding: 5px ;
+  border-radius: 180px;
+  border: 1px solid white;
+}
+
+.container-for-nav{
+  display:  flex;
+}
